@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Guillermo Segura 👋
 
-<!--
-**TheGCraft/TheGCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Designer and beginner Go developer learning to build REST APIs with Go and JavaScript. Currently working on my own projects on a daily basis, to master Go programming.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages**: Go, JavaScript, HTML, CSS, XSL
+- **Frameworks**: Tailwind CSS, Bootstrap
+- **Tools**: Git, VS Code
+- **Learning**: REST APIs with Go and JS, clean code, testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Current Projects
+- **[TrackMap](https://github.com/TheGCraft/trackmap)**: My first REST API, exploring backend development.
+
+## 📫 Connect
+- Email: guillermo.segura.cv@gmail.com
+- Be: https://www.behance.net/guillermosegura
+
+*Fun fact*: I learned JS by scripting a Pong game! 🎮
+
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
