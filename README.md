@@ -10,6 +10,7 @@ I'm a Web Designer and beginner Go developer learning to build REST APIs with Go
 
 ## 🌟 Current Projects
 - **[TrackMap](https://github.com/TheGCraft/trackmap)**: My first REST API, exploring backend development.
+- **[Go-Do CLI](https://github.com/TheGCraft/go-do-cli)**: My first CLI, an easy-to-use To-Do List manager.
 
 ## 📫 Connect
 - Email: guillermo.segura.cv@gmail.com
